@@ -85,8 +85,8 @@ Video Script
 - If you've installed via the Determinate Systems installer, you can uninstall
   Nix and everything it installed via ``/nix/nix-installer uninstall``.
 
-  Extra credit
---------------
+Extra credit
+------------
 
   You may see stuff fail to install when you use ``nix-env``. It's a
   little fussy.  For example, you might have tried::
