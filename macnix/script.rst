@@ -1,7 +1,7 @@
 Using Nix as a Homebrew Replacement on MacOS
 ============================================
 
-- Companion to video at
+- Companion to video at https://www.youtube.com/watch?v=c5xGk7oUvqw
 
 Video Script
 ------------
