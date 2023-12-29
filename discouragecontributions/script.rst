@@ -169,10 +169,10 @@ with him has some suspicion that this guy is toxic, at least unless they are on
 the same place in the spectrum as he is.  But programmers are nice people, and
 avoid conflict.  At least I do.  But sometimes it can't be helped.  Folks who
 are old hands in that project should discourage this behavior, especially when
-wanting to attract new contributors.  They will bounce off hard.  I've been
-doing this shit for 25 years, so I don't bounce, but anyone else would have.
-Real leaders *mentor* people, not do this clown shit, and they discourage the
-clown shit when other leaders exhibit it.
+loudly claiming to want to attract new contributors.  They will bounce off
+hard.  I've been doing this shit for 25 years, so I don't bounce, but anyone
+else would have.  Real leaders *mentor* people, not do this clown shit, and
+they discourage the clown shit when other leaders exhibit it.
 
 In my case, there is an official moderation committee that I could complain to,
 and I might if the behavior repeats.  And I suspect the behavior will repeat,
