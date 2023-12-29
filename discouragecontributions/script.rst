@@ -80,14 +80,15 @@ explanation as to what he meant, although I kinda figured what it might be cuz
 he's that kinda guy.
 
 When I messaged him privately, he complained that I was "taking over his work"
-without attributing him.  Note that I used exactly 15 lines of an example from
-his PR in mine.  My PR adds 278 lines of code.  The "work" he was worried about
-me stealing was a minute fraction of my PR.  The rest of it is totally
-original.  And, to be frank, the only reason I used those 15 lines was more out
-of *pity* cuz the rest of it fucking stank.  It wasn't like I couldn't have
-made something original to replace it.  He was complaining that I was stealing
-the concept of fixing this bit of the docs, I think. He hadn't even looked at
-my PR.  And I *did* attribute him by linking to his PR in mine.
+without attributing him.  "People have left the project over kinds of things
+like this," he said.  Note that I used exactly 15 lines of an example from his
+PR in mine.  My PR adds 278 lines of code.  The "work" he was worried about me
+stealing was a minute fraction of my PR.  The rest of it is totally original.
+And, to be frank, the only reason I used those 15 lines was more out of *pity*
+cuz the rest of it fucking stank.  It wasn't like I couldn't have made
+something original to replace it.  He was complaining that I was stealing the
+concept of fixing this bit of the docs, I think. He hadn't even looked at my
+PR.  And I *did* attribute him by linking to his PR in mine.
 
 I argued that I asked him two days ago to look at my comment to his PR without
 response in the support channel.  He has been around in the channel for those
