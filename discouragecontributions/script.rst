@@ -98,10 +98,10 @@ enough to ask one and receive his "help" as a reward.
 
 He said he didn't have time: "people have other things to do, you know."
 
-I responded with "lol".  This guy has nothing *but* time.  I suppose that was
-mean and unconstructive.  And then, more constructively, with "why didn't you
-respond to my request to review it with something like 'yep ill get around to
-it and notify you when i do'"?
+I responded with "lol" because it's obvious that this guy has nothing *but*
+time.  I suppose that was mean and unconstructive.  And then, more
+constructively, with "why didn't you respond to my request to review it with
+something like 'yep ill get around to it and notify you when i do'"?
 
 I suppose then he thought about it, found himself trapped in an unwinnable
 situation, and did indeed halfheartedly, begrudgingly apologize.  I then still
