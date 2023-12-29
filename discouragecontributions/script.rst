@@ -154,8 +154,8 @@ Turn every support conversation into an "X-Y" problem
 
 Just shut the fuck up and answer the question if it's one that can be answered
 literally.  Nobody is here for your power trip.  Nobody is paying you to be
-here, nobody asked you to be here, nobody is forcing you to answer all of these
-questions.  People appreciate it, but if you're there *expressly* for the
+here, nobody asked you to be here, nobody is forcing you to half-answer all of
+these questions.  People appreciate it, but if you're there *expressly* for the
 glory, your mental health is going to suffer and you're going to make the
 project worse, not better.
 
