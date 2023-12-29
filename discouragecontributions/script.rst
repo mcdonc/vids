@@ -87,7 +87,7 @@ original.  And, to be frank, the only reason I used those 15 lines was more out
 of *pity* cuz the rest of it fucking stank.  It wasn't like I couldn't have
 made something original to replace it.  He was complaining that I was stealing
 the concept of fixing this bit of the docs, I think. He hadn't even looked at
-my PR.  And UI *did* attribute him by linking to his PR in mine.
+my PR.  And I *did* attribute him by linking to his PR in mine.
 
 I argued that I asked him two days ago to look at my comment to his PR without
 response in the support channel.  He has been around in the channel for those
@@ -133,10 +133,15 @@ Unwritten rule.
 Unwritten rule.  And a good leader does not seek the limelight, but
 celebrates team members for the work they do.
 
-Rule for thee and not for me.  He would have told me to piss off if I asked him
-to not submit a PR against my branch that improved things, because it was a
-structural change that needed to be vaidated by code.  And that's what I should
-have done.  But I was trying to be respectful.
+Rule for thee and not for me.  He asked me not to submit a PR against his
+branch that fixed the docs, blocking me from doing anything at all, for some
+unspecified reason.  If I had been able to do that, he would have gotten
+attribution as the committer in the changelog, which would have been fine by
+me, even if the content was mostly mine, I coudn't care less about attribution.
+He would have told me to piss off if I asked him to not submit a PR against my
+branch that improved things, because it was a structural change that needed to
+be vaidated by code.  And that's what I should have done.  But I was trying to
+be respectful.
 
 Turn every support conversation into an "X-Y" problem
 =====================================================
