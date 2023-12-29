@@ -1,5 +1,5 @@
 ========================================================
-How To Discourage Contributors to an Open Source Project
+How To Discourage Contribution to an Open Source Project
 ========================================================
 
 I submitted my first pull request (to documentation) in a popular open source
