@@ -35,14 +35,28 @@ Configuration
   overrides in settings. Most of the bindings I'm used to are provided by this,
   even rectangle editing.  I made some custom overrides, like:
 
-  .. code-block:: json
+  - Put the cursor at the beginning of the line instead of the first nonwhitespace character
 
-     // dont put the cursor at the first nonwhitespace character
+    .. code-block:: json
+
      {
          "key": "ctrl+a",
          "command": "cursorLineStart",
          "when": "editorTextFocus"
      }
+
+  - ``Alt+e`` and ``Alt+d`` to hide the left-hand sidebar and activity bar:
+
+    .. code-block:: json
+
+      {
+          "key": "alt+e",
+          "command": "workbench.action.toggleActivityBarVisibility"
+      },
+      {
+          "key": "alt+d",
+          "command": "workbench.action.toggleSidebarVisibility"
+      },
 
   See `keybindings.json <./keybindings.json>`_ for more.
 
@@ -96,10 +110,6 @@ Configuration
   running. Then open the file I want to edit in that workspace."" The ``-r``
   there means "reuse open window."  This doesn't work for opening directories,
   unfortunately.
-
-- Keyboard shortcuts, see `keybindings.json <./keybindings.json>`_
-
-  - ``Alt+e`` and ``Alt+d`` to hide the left-hand sidebar and activity bar.
 
 - `vsnetrw extension <https://github.com/danprince/vsnetrw>`_ instead of dired.
   mapped to ``Ctrl+x d``.
@@ -193,4 +203,4 @@ My ~/.config/Code/User Files
 
 `settings.json <./settings.json>`_
 
-- Editor user settings, see ``@modified`` filter in user settings.
+Editor user settings, see ``@modified`` filter in user settings.
