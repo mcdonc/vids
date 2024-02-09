@@ -1,0 +1,54 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "telemetry.telemetryLevel": "off",
+    "update.mode": "manual",
+    "update.showReleaseNotes": false,
+    "workbench.startupEditor": "none",
+    "window.restoreWindows": "all",
+
+    // more like emacs
+    "editor.autoIndent":"full",
+    "editor.wordWrap": "bounded",
+    "editor.wordWrapColumn": 1000,
+    "editor.wrappingIndent": "none",
+    "editor.occurrencesHighlight": "off",
+    "editor.renderLineHighlight": "none",
+    "editor.renderWhitespace": "none",
+    "editor.find.seedSearchStringFromSelection": "never", // see emacs-mcx
+    "editor.guides.indentation": false,
+    "workbench.editor.tabSizing": "shrink",
+
+    "emacs-mcx.cursorMoveOnFindWidget": true,
+    //"emacs-mcx.useMetaPrefixEscape": true,
+
+
+    "editor.fontFamily": "'UbuntuMono Nerd Font Mono','Droid Sans Mono','monospace',monospace",
+    "editor.fontSize": 20,
+    "editor.hover.sticky": false,
+    "editor.hover.delay": 1000,
+    "editor.rulers": [80, 88, 120],
+    "editor.tabCompletion": "on",
+    "editor.acceptSuggestionOnEnter": "off",
+    "git.path": "/etc/profiles/per-user/chrism/bin/git",
+    "git.openRepositoryInParentFolders": "never",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+
+    "nix.formatterPath": "/etc/profiles/per-user/chrism/bin/nixpkgs-fmt",
+
+    "ruff.importStrategy": "useBundled",
+    "python.analysis.diagnosticSeverityOverrides": {
+       "reportMissingModuleSource": false,
+       "reportMissingImports": false
+    },
+
+    "micropico.pythonPath": "/run/current-system/sw/bin/python3.11",
+    "micropico.openOnStart": false,
+    "tws.highlightOnlyChangedLines": true,
+    "tws.highlightTrailingWhiteSpace": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "xml.validation.namespaces.enabled": "never",
+    "workbench.colorTheme": "GitHub Dark Mode",
+    "problems.showCurrentInStatus": true,
+    "workbench.activityBar.location": "hidden"
+}
