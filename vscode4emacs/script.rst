@@ -6,10 +6,14 @@ Talky-script for this video available at
 https://github.com/mcdonc/vids/blob/master/vscode4emacs (includes links to
 config files and extensions).
 
+This is a companion to the video at
+
 Rationale
 ---------
 
 - Customers / Codespaces
+
+- Challenge
 
 - GH copilot
 
@@ -41,8 +45,6 @@ Configuration
      }
 
   See `keybindings.json <./keybindings.json>`_ for more.
-
-- Editor user settings, see ``@modified`` filter in user settings.
 
 - Multiroot workspace permits consistent file explorer / git views if you open
   up code every time with that workspace.  I created a directory in my home dir
@@ -98,11 +100,6 @@ Configuration
 - Keyboard shortcuts, see `keybindings.json <./keybindings.json>`_
 
   - ``Alt+e`` and ``Alt+d`` to hide the left-hand sidebar and activity bar.
-
-  - ``Alt+;`` to comment a line or block using VSCode's built-in comment
-    command.
-
-  - Etc.
 
 - `vsnetrw extension <https://github.com/danprince/vsnetrw>`_ instead of dired.
   mapped to ``Ctrl+x d``.
@@ -195,3 +192,5 @@ My ~/.config/Code/User Files
 `keybindings.json <./keybindings.json>`_
 
 `settings.json <./settings.json>`_
+
+- Editor user settings, see ``@modified`` filter in user settings.
