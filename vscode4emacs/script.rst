@@ -3,10 +3,10 @@ Visual Studio Code for Bad Emacs Users
 ======================================
 
 Talky-script for this video available at
-https://github.com/mcdonc/vids/blob/master/vscode4emacs (includes links to
-config files and extensions).
+https://github.com/mcdonc/vids/blob/master/vscode4emacs/script.rst (includes
+links to config files and extensions).
 
-This is a companion to the video at
+This is a companion to the video at https://youtu.be/el5caszxAy4
 
 Rationale
 ---------
